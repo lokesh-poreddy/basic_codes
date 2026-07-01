@@ -51,3 +51,4 @@ class MinStack {
         System.out.println("Current Min (expected -2): " + minStack.getMin()); // Returns -2
     }
 }
+//known
